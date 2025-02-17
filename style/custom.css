@@ -1,0 +1,41 @@
+/* Custom CSS Settings
+-------------------------*/
+[[setting:customcss]]
+
+.login-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    height: 100%;
+}
+
+#footer .footer-main {
+    background-color: var(--primary);
+}
+
+#footer .footer-main .infoarea .footer-logo {
+	max-width: 100%;
+	margin: 0 0 18px;
+}
+
+#footer .footer-main .contact-info p a {
+	color: white;
+}
+
+#footer .footer-bootom {
+	background: #850cb7;
+	padding: 21px 0;
+	text-align: center;
+}
+
+#footer .footer-main .foot-links ul li a:hover {
+	color: var(--white);
+	text-decoration: none;
+}
+
+.course_category_tree.frontpage-category-names .category {
+    width: 100%;
+    display: inline-block;
+    margin-right: 15px;
+}
+
