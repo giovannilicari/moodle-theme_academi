@@ -1,0 +1,21 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Dipendenze
+node_modules/
+vendor/
+
+# Cache
+.cache/
+tmp/
+
+# File sensibili
+.env
