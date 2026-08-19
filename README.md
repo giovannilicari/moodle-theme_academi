@@ -9,4 +9,3 @@ Versione installata nel sistema:
 Fix: 
 - ./include/footer.php
 - ./lang/it/theme_academi.php
-# moodle-theme_academi
