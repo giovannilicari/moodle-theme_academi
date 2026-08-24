@@ -9,3 +9,11 @@ Versione installata nel sistema:
 Fix: 
 - ./include/footer.php
 - ./lang/it/theme_academi.php
+- ./style/custom.css
+
+SQL:
+Tabella configurazione del tema: mdl_config_plugins
+Colonna name: plugin
+Valore: theme_academi
+
+
